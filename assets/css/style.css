@@ -3109,7 +3109,7 @@ h3 {
 /* line 21, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_popular_place.scss */
 .popular_places_area .single_place .thumb .prise {
   position: absolute;
-  background: #1EC6B6;
+  background: rgb(255, 187, 0);
   padding: 7px 18px 4px 18px;
   display: inline-block;
   top: 20px;
@@ -3196,7 +3196,7 @@ h3 {
 
 /* line 85, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_popular_place.scss */
 .popular_places_area .single_place:hover .thumb .prise {
-  background: #FF4A52;
+  background: #ff000d;
 }
 
 /* line 91, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_popular_place.scss */
